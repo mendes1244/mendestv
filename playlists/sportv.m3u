@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30" tvg-name="Sportv FHD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv.png" group-title="⚽ SporTV",Sportv FHD
+http://topfox.online:80/454357502/753140382/391465.ts
+#EXTINF:-1 tvg-id="30" tvg-name="Sportv H265²" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv.png" group-title="⚽ SporTV",Sportv H265²
+http://topfox.online:80/454357502/753140382/723835.ts
+#EXTINF:-1 tvg-id="30" tvg-name="Sportv HD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv.png" group-title="⚽ SporTV",Sportv HD
+http://topfox.online:80/454357502/753140382/391466.ts
+#EXTINF:-1 tvg-id="30" tvg-name="Sportv SD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv.png" group-title="⚽ SporTV",Sportv SD
+http://topfox.online:80/454357502/753140382/391467.ts
+#EXTINF:-1 tvg-id="31" tvg-name="Sportv 2 FHD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv2.png" group-title="⚽ SporTV",Sportv 2 FHD
+http://topfox.online:80/454357502/753140382/391468.ts
+#EXTINF:-1 tvg-id="31" tvg-name="Sportv 2 HD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv2.png" group-title="⚽ SporTV",Sportv 2 HD
+http://topfox.online:80/454357502/753140382/391469.ts
+#EXTINF:-1 tvg-id="31" tvg-name="Sportv 2 SD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv2.png" group-title="⚽ SporTV",Sportv 2 SD
+http://topfox.online:80/454357502/753140382/391470.ts
+#EXTINF:-1 tvg-id="32" tvg-name="Sportv 3 FHD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv3.png" group-title="⚽ SporTV",Sportv 3 FHD
+http://topfox.online:80/454357502/753140382/391471.ts
+#EXTINF:-1 tvg-id="32" tvg-name="Sportv 3 HD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv3.png" group-title="⚽ SporTV",Sportv 3 HD
+http://topfox.online:80/454357502/753140382/391472.ts
+#EXTINF:-1 tvg-id="32" tvg-name="Sportv 3 SD" tvg-logo="http://www.fontedecanais.red/logos/canais/sportv3.png" group-title="⚽ SporTV",Sportv 3 SD
+http://topfox.online:80/454357502/753140382/391473.ts

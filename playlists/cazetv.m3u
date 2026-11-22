@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 01" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",CazeTV 01
+http://topfox.online:80/454357502/753140382/106258.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 02" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",CazeTV 02
+http://topfox.online:80/454357502/753140382/106259.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",CazeTV 03
+http://topfox.online:80/454357502/753140382/106260.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAZÉ TV HD IV" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",BR: CAZÉ TV HD IV
+http://topfox.online:80/454357502/753140382/2151827.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAZÉ TV HD V" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",BR: CAZÉ TV HD V
+http://topfox.online:80/454357502/753140382/2151828.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAZÉ TV HD VI" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",BR: CAZÉ TV HD VI
+http://topfox.online:80/454357502/753140382/2151829.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAZÉ TV HD VII" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",BR: CAZÉ TV HD VII
+http://topfox.online:80/454357502/753140382/2151830.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAZÉ TV HD VIII" tvg-logo="http://www.fontedecanais.red/logos/canais/cazetv.png" group-title="⚽ CazeTv",BR: CAZÉ TV HD VIII
+http://topfox.online:80/454357502/753140382/2151831.ts

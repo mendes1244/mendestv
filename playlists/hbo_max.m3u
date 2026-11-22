@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 01
+http://topfox.online:80/454357502/753140382/106224.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 02
+http://topfox.online:80/454357502/753140382/106225.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 03" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 03
+http://topfox.online:80/454357502/753140382/106226.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 04" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 04
+http://topfox.online:80/454357502/753140382/106227.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 05" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 05
+http://topfox.online:80/454357502/753140382/106228.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 06" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 06
+http://topfox.online:80/454357502/753140382/106229.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 07" tvg-logo="http://www.fontedecanais.red/logos/canais/max.png" group-title="⚽ HBO MAX",MAX 07
+http://topfox.online:80/454357502/753140382/106230.ts

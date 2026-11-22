@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC FHD
+http://topfox.online:80/454357502/753140382/106198.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC HD
+http://topfox.online:80/454357502/753140382/106199.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC SD
+http://topfox.online:80/454357502/753140382/106200.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Figth Pass 01¹" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC Figth Pass 01¹
+http://topfox.online:80/454357502/753140382/391676.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Figth Pass 02²" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC Figth Pass 02²
+http://topfox.online:80/454357502/753140382/391677.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Figth Pass 03³" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC Figth Pass 03³
+http://topfox.online:80/454357502/753140382/391678.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Figth Pass 04" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC Figth Pass 04
+http://topfox.online:80/454357502/753140382/391679.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Figth Pass 05" tvg-logo="https://www.fontedecanais.bz/logos/canais/ufc.png" group-title="♯ UFC Figth Pass",UFC Figth Pass 05
+http://topfox.online:80/454357502/753140382/391680.ts

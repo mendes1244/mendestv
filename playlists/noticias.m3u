@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6" tvg-name="Band News FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandnews.png" group-title="♯ Notícias",Band News FHD
+http://topfox.online:80/454357502/753140382/391643.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandnews.png" group-title="♯ Notícias",Band News HD
+http://topfox.online:80/454357502/753140382/391644.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandnews.png" group-title="♯ Notícias",Band News SD
+http://topfox.online:80/454357502/753140382/391645.ts
+#EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil HD" tvg-logo="https://i.postimg.cc/MZLdtc8z/cnnbrasil.png" group-title="♯ Notícias",CNN Brasil HD
+http://topfox.online:80/454357502/753140382/391647.ts
+#EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil SD" tvg-logo="https://i.postimg.cc/MZLdtc8z/cnnbrasil.png" group-title="♯ Notícias",CNN Brasil SD
+http://topfox.online:80/454357502/753140382/391648.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Portugal" tvg-logo="https://i.postimg.cc/MZLdtc8z/cnnbrasil.png" group-title="♯ Notícias",CNN Portugal
+http://topfox.online:80/454357502/753140382/391649.ts
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News FHD" tvg-logo="https://i.postimg.cc/3wFxZYX1/globo.png" group-title="♯ Notícias",Globo News FHD
+http://topfox.online:80/454357502/753140382/391650.ts
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News SD" tvg-logo="https://i.postimg.cc/3wFxZYX1/globo.png" group-title="♯ Notícias",Globo News SD
+http://topfox.online:80/454357502/753140382/391651.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JP News FHD" tvg-logo="https://i.postimg.cc/0Q2cXDQj/jpnews.png" group-title="♯ Notícias",JP News FHD
+http://topfox.online:80/454357502/753140382/391652.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JP News HD" tvg-logo="https://i.postimg.cc/0Q2cXDQj/jpnews.png" group-title="♯ Notícias",JP News HD
+http://topfox.online:80/454357502/753140382/391653.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JP News SD" tvg-logo="https://i.postimg.cc/0Q2cXDQj/jpnews.png" group-title="♯ Notícias",JP News SD
+http://topfox.online:80/454357502/753140382/391654.ts
+#EXTINF:-1 tvg-id="182" tvg-name="Record News FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/recordnews.png" group-title="♯ Notícias",Record News FHD
+http://topfox.online:80/454357502/753140382/391655.ts
+#EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/recordnews.png" group-title="♯ Notícias",Record News HD
+http://topfox.online:80/454357502/753140382/391656.ts
+#EXTINF:-1 tvg-id="182" tvg-name="Record News SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/recordnews.png" group-title="♯ Notícias",Record News SD
+http://topfox.online:80/454357502/753140382/391657.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbtnews.png" group-title="♯ Notícias",SBT News FHD
+http://topfox.online:80/454357502/753140382/391658.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbtnews.png" group-title="♯ Notícias",SBT News HD
+http://topfox.online:80/454357502/753140382/391659.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbtnews.png" group-title="♯ Notícias",SBT News SD
+http://topfox.online:80/454357502/753140382/391660.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="http://topfox.online:80/images/5a73c890a8210ebd0e65da55ec606ed4.png" group-title="♯ Notícias",BBC News
+http://topfox.online:80/454357502/753140382/391646.ts

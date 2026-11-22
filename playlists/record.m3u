@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="186" tvg-name="RECORD SP SD" tvg-logo="http://www.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="♯ Record",RECORD SP SD
+http://topfox.online:80/454357502/753140382/753906.ts
+#EXTINF:-1 tvg-id="186" tvg-name="RECORD SP FHD" tvg-logo="http://www.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="♯ Record",RECORD SP FHD
+http://topfox.online:80/454357502/753140382/753907.ts
+#EXTINF:-1 tvg-id="186" tvg-name="RECORD SP H265" tvg-logo="http://www.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="♯ Record",RECORD SP H265
+http://topfox.online:80/454357502/753140382/753908.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="http://www.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="♯ Record",RECORD RIO HD
+http://topfox.online:80/454357502/753140382/753909.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO FHD" tvg-logo="http://www.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="♯ Record",RECORD RIO FHD
+http://topfox.online:80/454357502/753140382/753910.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO H265" tvg-logo="http://www.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="♯ Record",RECORD RIO H265
+http://topfox.online:80/454357502/753140382/753911.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Atalaia SE HD" tvg-logo="http://www.tmsimg.com/assets/s104274_ll_h3_aa.png" group-title="♯ Record",Record Atalaia SE HD
+http://topfox.online:80/454357502/753140382/753998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Bahia Itabuna HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Bahia Itabuna HD
+http://topfox.online:80/454357502/753140382/753999.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Bauru HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Bauru HD
+http://topfox.online:80/454357502/753140382/754000.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Belém HD" tvg-logo="http://www.tmsimg.com/assets/s104386_ll_h3_aa.png" group-title="♯ Record",Record Belém HD
+http://topfox.online:80/454357502/753140382/754001.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Brasília HD" tvg-logo="http://www.tmsimg.com/assets/s104275_ll_h3_aa.png" group-title="♯ Record",Record Brasília HD
+http://topfox.online:80/454357502/753140382/754002.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Cabrália BA HD" tvg-logo="http://www.tmsimg.com/assets/s105048_ll_h3_aa.png" group-title="♯ Record",Record Cabrália BA HD
+http://topfox.online:80/454357502/753140382/754003.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Campinas HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Campinas HD
+http://topfox.online:80/454357502/753140382/754004.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Correio PB HD" tvg-logo="http://www.tmsimg.com/assets/s105044_ll_h3_aa.png" group-title="♯ Record",Record Correio PB HD
+http://topfox.online:80/454357502/753140382/754005.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Goiás HD" tvg-logo="http://www.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="♯ Record",Record Goiás HD
+http://topfox.online:80/454357502/753140382/754006.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Goytacazes HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Goytacazes HD
+http://topfox.online:80/454357502/753140382/754007.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Itapoan BA HD" tvg-logo="http://www.tmsimg.com/assets/s104203_ll_h3_aa.png" group-title="♯ Record",Record Itapoan BA HD
+http://topfox.online:80/454357502/753140382/754008.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Manaus HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Manaus HD
+http://topfox.online:80/454357502/753140382/754009.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Minas HD" tvg-logo="http://www.tmsimg.com/assets/s104208_ll_h3_aa.png" group-title="♯ Record",Record Minas HD
+http://topfox.online:80/454357502/753140382/754010.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record MT HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record MT HD
+http://topfox.online:80/454357502/753140382/754011.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record PA HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record PA HD
+http://topfox.online:80/454357502/753140382/754012.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Pajuçara AL HD" tvg-logo="http://www.tmsimg.com/assets/s107170_ll_h3_aa.png" group-title="♯ Record",Record Pajuçara AL HD
+http://topfox.online:80/454357502/753140382/754013.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Paulista Bauru HD" tvg-logo="http://www.tmsimg.com/assets/s105718_ll_h3_aa.png" group-title="♯ Record",Record Paulista Bauru HD
+http://topfox.online:80/454357502/753140382/754014.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Piauí HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Piauí HD
+http://topfox.online:80/454357502/753140382/754015.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Recife Guararapes HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Recife Guararapes HD
+http://topfox.online:80/454357502/753140382/754016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Remanso MA HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Remanso MA HD
+http://topfox.online:80/454357502/753140382/754017.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Ribeirão Preto HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Ribeirão Preto HD
+http://topfox.online:80/454357502/753140382/754018.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record RIC PR FHD" tvg-logo="http://www.tmsimg.com/assets/s104464_ll_h3_aa.png" group-title="♯ Record",Record RIC PR FHD
+http://topfox.online:80/454357502/753140382/754019.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Rio Preto HD" tvg-logo="http://www.tmsimg.com/assets/s76737_ll_h3_aa.png" group-title="♯ Record",Record Rio Preto HD
+http://topfox.online:80/454357502/753140382/754020.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record RJ FHD" tvg-logo="http://www.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="♯ Record",Record RJ FHD
+http://topfox.online:80/454357502/753140382/754021.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record RS FHD" tvg-logo="http://www.tmsimg.com/assets/s109099_ll_h3_aa.png" group-title="♯ Record",Record RS FHD
+http://topfox.online:80/454357502/753140382/754024.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record RS HD" tvg-logo="http://www.tmsimg.com/assets/s109099_ll_h3_aa.png" group-title="♯ Record",Record RS HD
+http://topfox.online:80/454357502/753140382/754025.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Santos e Vale HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Santos e Vale HD
+http://topfox.online:80/454357502/753140382/754026.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SC NDTV HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record SC NDTV HD
+http://topfox.online:80/454357502/753140382/754027.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record SD
+http://topfox.online:80/454357502/753140382/754028.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record SD
+http://topfox.online:80/454357502/753140382/754029.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SD ²" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record SD ²
+http://topfox.online:80/454357502/753140382/754030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SIC RO HD" tvg-logo="http://www.tmsimg.com/assets/s104270_ll_h3_aa.png" group-title="♯ Record",Record SIC RO HD
+http://topfox.online:80/454357502/753140382/754031.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SP FHD" tvg-logo="http://www.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="♯ Record",Record SP FHD
+http://topfox.online:80/454357502/753140382/754032.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record SP HD" tvg-logo="http://www.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="♯ Record",Record SP HD
+http://topfox.online:80/454357502/753140382/754033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TO HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record TO HD
+http://topfox.online:80/454357502/753140382/754034.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Cidade CE FHD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record TV Cidade CE FHD
+http://topfox.online:80/454357502/753140382/754035.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Cidade CE HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record TV Cidade CE HD
+http://topfox.online:80/454357502/753140382/754036.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Conquista MT HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record TV Conquista MT HD
+http://topfox.online:80/454357502/753140382/754037.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Tv Juara HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Tv Juara HD
+http://topfox.online:80/454357502/753140382/754038.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Juina HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record TV Juina HD
+http://topfox.online:80/454357502/753140382/754039.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Tropical RN HD" tvg-logo="http://www.tmsimg.com/assets/s104815_ll_h3_aa.png" group-title="♯ Record",Record TV Tropical RN HD
+http://topfox.online:80/454357502/753140382/754040.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record TV Vitoria ES HD" tvg-logo="http://www.tmsimg.com/assets/s104204_ll_h3_aa.png" group-title="♯ Record",Record TV Vitoria ES HD
+http://topfox.online:80/454357502/753140382/754041.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Record Vila Real MT HD" tvg-logo="http://www.tmsimg.com/assets/s105316_ll_h3_ab.png" group-title="♯ Record",Record Vila Real MT HD
+http://topfox.online:80/454357502/753140382/754042.ts

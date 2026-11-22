@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel FHD" tvg-logo="https://i.postimg.cc/pr77j5pN/discoverychannel.png" group-title="♯ Discovery",Discovery Channel FHD
+http://topfox.online:80/454357502/753140382/391731.ts
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD²" tvg-logo="https://i.postimg.cc/pr77j5pN/discoverychannel.png" group-title="♯ Discovery",Discovery Channel HD²
+http://topfox.online:80/454357502/753140382/723893.ts
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel SD" tvg-logo="https://i.postimg.cc/pr77j5pN/discoverychannel.png" group-title="♯ Discovery",Discovery Channel SD
+http://topfox.online:80/454357502/753140382/391732.ts
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery h&h FHD" tvg-logo="https://i.postimg.cc/m20dYFyH/discoveryhh.png" group-title="♯ Discovery",Discovery h&h FHD
+http://topfox.online:80/454357502/753140382/391733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery h&h  HD" tvg-logo="https://i.postimg.cc/m20dYFyH/discoveryhh.png" group-title="♯ Discovery",Discovery h&h  HD
+http://topfox.online:80/454357502/753140382/1735563.ts
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery h&h SD" tvg-logo="https://i.postimg.cc/m20dYFyH/discoveryhh.png" group-title="♯ Discovery",Discovery h&h SD
+http://topfox.online:80/454357502/753140382/391734.ts
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryscience.png" group-title="♯ Discovery",Discovery Science FHD
+http://topfox.online:80/454357502/753140382/391735.ts
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryscience.png" group-title="♯ Discovery",Discovery Science HD
+http://topfox.online:80/454357502/753140382/391736.ts
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryscience.png" group-title="♯ Discovery",Discovery Science SD
+http://topfox.online:80/454357502/753140382/391737.ts
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery theater FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoverytheater.png" group-title="♯ Discovery",Discovery theater FHD
+http://topfox.online:80/454357502/753140382/391738.ts
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery theater HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoverytheater.png" group-title="♯ Discovery",Discovery theater HD
+http://topfox.online:80/454357502/753140382/391739.ts
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery theater SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoverytheater.png" group-title="♯ Discovery",Discovery theater SD
+http://topfox.online:80/454357502/753140382/391740.ts
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.postimg.cc/jSjcTS5w/discoveryturbo.png" group-title="♯ Discovery",Discovery Turbo FHD
+http://topfox.online:80/454357502/753140382/391741.ts
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo SD" tvg-logo="https://i.postimg.cc/jSjcTS5w/discoveryturbo.png" group-title="♯ Discovery",Discovery Turbo SD
+http://topfox.online:80/454357502/753140382/391742.ts
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryworld.png" group-title="♯ Discovery",Discovery World FHD
+http://topfox.online:80/454357502/753140382/391743.ts
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World HD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryworld.png" group-title="♯ Discovery",Discovery World HD
+http://topfox.online:80/454357502/753140382/391744.ts
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World SD" tvg-logo="https://www.fontedecanais.bz/logos/canais/discoveryworld.png" group-title="♯ Discovery",Discovery World SD
+http://topfox.online:80/454357502/753140382/391745.ts

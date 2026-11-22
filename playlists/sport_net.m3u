@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo="http://www.fontedecanais.red/logos/canais/sportynet2.png" group-title="⚽ Sport Net",SportyNet 01
+http://topfox.online:80/454357502/753140382/106215.ts
+#EXTINF:-1 tvg-id="296" tvg-name="SportyNet 02" tvg-logo="http://www.fontedecanais.red/logos/canais/sportynet2.png" group-title="⚽ Sport Net",SportyNet 02
+http://topfox.online:80/454357502/753140382/106216.ts
+#EXTINF:-1 tvg-id="298" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.red/logos/canais/sportynet2.png" group-title="⚽ Sport Net",SportyNet 03
+http://topfox.online:80/454357502/753140382/106217.ts
