@@ -1,0 +1,884 @@
+{
+  "name": "IPTV Playlists",
+  "version": "1.0.0",
+  "generated_at": "2026-11-22",
+  "playlist_count": 125,
+  "total_entries": 319450,
+  "playlists": [
+    {
+      "id": "18_adultos",
+      "name": "18 Adultos",
+      "file": "playlists/18_adultos.m3u",
+      "entries": 100,
+      "format": "m3u"
+    },
+    {
+      "id": "18_adultos_direct",
+      "name": "18 Adultos Direct",
+      "file": "playlists/18_adultos_direct.m3u",
+      "entries": 787,
+      "format": "m3u"
+    },
+    {
+      "id": "18_adultos_premium",
+      "name": "18 Adultos Premium",
+      "file": "playlists/18_adultos_premium.m3u",
+      "entries": 29,
+      "format": "m3u"
+    },
+    {
+      "id": "4k",
+      "name": "4K",
+      "file": "playlists/4k.m3u",
+      "entries": 1591,
+      "format": "m3u"
+    },
+    {
+      "id": "4k_uhd",
+      "name": "4K Uhd",
+      "file": "playlists/4k_uhd.m3u",
+      "entries": 30,
+      "format": "m3u"
+    },
+    {
+      "id": "a_fazenda",
+      "name": "A Fazenda",
+      "file": "playlists/a_fazenda.m3u",
+      "entries": 7,
+      "format": "m3u"
+    },
+    {
+      "id": "abertos",
+      "name": "Abertos",
+      "file": "playlists/abertos.m3u",
+      "entries": 43,
+      "format": "m3u"
+    },
+    {
+      "id": "acao",
+      "name": "Acao",
+      "file": "playlists/acao.m3u",
+      "entries": 1953,
+      "format": "m3u"
+    },
+    {
+      "id": "amc_plus",
+      "name": "Amc Plus",
+      "file": "playlists/amc_plus.m3u",
+      "entries": 82,
+      "format": "m3u"
+    },
+    {
+      "id": "animacao",
+      "name": "Animacao",
+      "file": "playlists/animacao.m3u",
+      "entries": 965,
+      "format": "m3u"
+    },
+    {
+      "id": "apple_tv_plus",
+      "name": "Apple Tv Plus",
+      "file": "playlists/apple_tv_plus.m3u",
+      "entries": 6750,
+      "format": "m3u"
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "file": "playlists/argentina.m3u",
+      "entries": 12,
+      "format": "m3u"
+    },
+    {
+      "id": "aventura",
+      "name": "Aventura",
+      "file": "playlists/aventura.m3u",
+      "entries": 68,
+      "format": "m3u"
+    },
+    {
+      "id": "band",
+      "name": "Band",
+      "file": "playlists/band.m3u",
+      "entries": 29,
+      "format": "m3u"
+    },
+    {
+      "id": "brasil_paralelo",
+      "name": "Brasil Paralelo",
+      "file": "playlists/brasil_paralelo.m3u",
+      "entries": 296,
+      "format": "m3u"
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "file": "playlists/canada.m3u",
+      "entries": 30,
+      "format": "m3u"
+    },
+    {
+      "id": "cazetv",
+      "name": "Cazetv",
+      "file": "playlists/cazetv.m3u",
+      "entries": 8,
+      "format": "m3u"
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema",
+      "file": "playlists/cinema.m3u",
+      "entries": 24,
+      "format": "m3u"
+    },
+    {
+      "id": "claro_video",
+      "name": "Claro Video",
+      "file": "playlists/claro_video.m3u",
+      "entries": 222,
+      "format": "m3u"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "file": "playlists/combate.m3u",
+      "entries": 3,
+      "format": "m3u"
+    },
+    {
+      "id": "comedia",
+      "name": "Comedia",
+      "file": "playlists/comedia.m3u",
+      "entries": 2323,
+      "format": "m3u"
+    },
+    {
+      "id": "crepusculo",
+      "name": "Crepusculo",
+      "file": "playlists/crepusculo.m3u",
+      "entries": 4,
+      "format": "m3u"
+    },
+    {
+      "id": "crime",
+      "name": "Crime",
+      "file": "playlists/crime.m3u",
+      "entries": 228,
+      "format": "m3u"
+    },
+    {
+      "id": "crunchyroll",
+      "name": "Crunchyroll",
+      "file": "playlists/crunchyroll.m3u",
+      "entries": 7560,
+      "format": "m3u"
+    },
+    {
+      "id": "dazn",
+      "name": "Dazn",
+      "file": "playlists/dazn.m3u",
+      "entries": 3,
+      "format": "m3u"
+    },
+    {
+      "id": "destaques_do_dia",
+      "name": "Destaques Do Dia",
+      "file": "playlists/destaques_do_dia.m3u",
+      "entries": 1,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_animes",
+      "name": "Direct Animes",
+      "file": "playlists/direct_animes.m3u",
+      "entries": 982,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_brasil_paralelo",
+      "name": "Direct Brasil Paralelo",
+      "file": "playlists/direct_brasil_paralelo.m3u",
+      "entries": 284,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_chaves",
+      "name": "Direct Chaves",
+      "file": "playlists/direct_chaves.m3u",
+      "entries": 221,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_desenhos",
+      "name": "Direct Desenhos",
+      "file": "playlists/direct_desenhos.m3u",
+      "entries": 1051,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_documentarios",
+      "name": "Direct Documentarios",
+      "file": "playlists/direct_documentarios.m3u",
+      "entries": 153,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_filmes",
+      "name": "Direct Filmes",
+      "file": "playlists/direct_filmes.m3u",
+      "entries": 1069,
+      "format": "m3u"
+    },
+    {
+      "id": "direct_religiosos",
+      "name": "Direct Religiosos",
+      "file": "playlists/direct_religiosos.m3u",
+      "entries": 101,
+      "format": "m3u"
+    },
+    {
+      "id": "directv",
+      "name": "Directv",
+      "file": "playlists/directv.m3u",
+      "entries": 3253,
+      "format": "m3u"
+    },
+    {
+      "id": "discovery",
+      "name": "Discovery",
+      "file": "playlists/discovery.m3u",
+      "entries": 17,
+      "format": "m3u"
+    },
+    {
+      "id": "discovery_plus",
+      "name": "Discovery Plus",
+      "file": "playlists/discovery_plus.m3u",
+      "entries": 7587,
+      "format": "m3u"
+    },
+    {
+      "id": "disney",
+      "name": "Disney",
+      "file": "playlists/disney.m3u",
+      "entries": 22,
+      "format": "m3u"
+    },
+    {
+      "id": "disney_plus",
+      "name": "Disney Plus",
+      "file": "playlists/disney_plus.m3u",
+      "entries": 16080,
+      "format": "m3u"
+    },
+    {
+      "id": "documentarios",
+      "name": "Documentarios",
+      "file": "playlists/documentarios.m3u",
+      "entries": 651,
+      "format": "m3u"
+    },
+    {
+      "id": "documentarios_2",
+      "name": "Documentarios 2",
+      "file": "playlists/documentarios_2.m3u",
+      "entries": 21,
+      "format": "m3u"
+    },
+    {
+      "id": "doramas",
+      "name": "Doramas",
+      "file": "playlists/doramas.m3u",
+      "entries": 17551,
+      "format": "m3u"
+    },
+    {
+      "id": "drama",
+      "name": "Drama",
+      "file": "playlists/drama.m3u",
+      "entries": 2845,
+      "format": "m3u"
+    },
+    {
+      "id": "era_do_gelo",
+      "name": "Era Do Gelo",
+      "file": "playlists/era_do_gelo.m3u",
+      "entries": 7,
+      "format": "m3u"
+    },
+    {
+      "id": "espn",
+      "name": "Espn",
+      "file": "playlists/espn.m3u",
+      "entries": 19,
+      "format": "m3u"
+    },
+    {
+      "id": "estados_unidos",
+      "name": "Estados Unidos",
+      "file": "playlists/estados_unidos.m3u",
+      "entries": 35,
+      "format": "m3u"
+    },
+    {
+      "id": "exterminador_do_futuro",
+      "name": "Exterminador Do Futuro",
+      "file": "playlists/exterminador_do_futuro.m3u",
+      "entries": 11,
+      "format": "m3u"
+    },
+    {
+      "id": "familia",
+      "name": "Familia",
+      "file": "playlists/familia.m3u",
+      "entries": 82,
+      "format": "m3u"
+    },
+    {
+      "id": "fantasia",
+      "name": "Fantasia",
+      "file": "playlists/fantasia.m3u",
+      "entries": 377,
+      "format": "m3u"
+    },
+    {
+      "id": "faroeste",
+      "name": "Faroeste",
+      "file": "playlists/faroeste.m3u",
+      "entries": 156,
+      "format": "m3u"
+    },
+    {
+      "id": "ficcao",
+      "name": "Ficcao",
+      "file": "playlists/ficcao.m3u",
+      "entries": 320,
+      "format": "m3u"
+    },
+    {
+      "id": "filmes_series",
+      "name": "Filmes Series",
+      "file": "playlists/filmes_series.m3u",
+      "entries": 69,
+      "format": "m3u"
+    },
+    {
+      "id": "fonte_2",
+      "name": "Fonte 2",
+      "file": "playlists/fonte_2.m3u",
+      "entries": 979,
+      "format": "m3u"
+    },
+    {
+      "id": "funimation_now",
+      "name": "Funimation Now",
+      "file": "playlists/funimation_now.m3u",
+      "entries": 982,
+      "format": "m3u"
+    },
+    {
+      "id": "globo_play",
+      "name": "Globo Play",
+      "file": "playlists/globo_play.m3u",
+      "entries": 17928,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_capitais",
+      "name": "Globos Capitais",
+      "file": "playlists/globos_capitais.m3u",
+      "entries": 15,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_centro_oeste",
+      "name": "Globos Centro Oeste",
+      "file": "playlists/globos_centro_oeste.m3u",
+      "entries": 17,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_nordeste",
+      "name": "Globos Nordeste",
+      "file": "playlists/globos_nordeste.m3u",
+      "entries": 30,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_norte",
+      "name": "Globos Norte",
+      "file": "playlists/globos_norte.m3u",
+      "entries": 14,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_sudeste",
+      "name": "Globos Sudeste",
+      "file": "playlists/globos_sudeste.m3u",
+      "entries": 42,
+      "format": "m3u"
+    },
+    {
+      "id": "globos_sul",
+      "name": "Globos Sul",
+      "file": "playlists/globos_sul.m3u",
+      "entries": 44,
+      "format": "m3u"
+    },
+    {
+      "id": "goat",
+      "name": "Goat",
+      "file": "playlists/goat.m3u",
+      "entries": 1,
+      "format": "m3u"
+    },
+    {
+      "id": "guerra",
+      "name": "Guerra",
+      "file": "playlists/guerra.m3u",
+      "entries": 79,
+      "format": "m3u"
+    },
+    {
+      "id": "harry_potter",
+      "name": "Harry Potter",
+      "file": "playlists/harry_potter.m3u",
+      "entries": 9,
+      "format": "m3u"
+    },
+    {
+      "id": "hbo",
+      "name": "Hbo",
+      "file": "playlists/hbo.m3u",
+      "entries": 31,
+      "format": "m3u"
+    },
+    {
+      "id": "hbo_max",
+      "name": "Hbo Max",
+      "file": "playlists/hbo_max.m3u",
+      "entries": 7,
+      "format": "m3u"
+    },
+    {
+      "id": "indiana_jones",
+      "name": "Indiana Jones",
+      "file": "playlists/indiana_jones.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "infantis",
+      "name": "Infantis",
+      "file": "playlists/infantis.m3u",
+      "entries": 24,
+      "format": "m3u"
+    },
+    {
+      "id": "jogos_mortais",
+      "name": "Jogos Mortais",
+      "file": "playlists/jogos_mortais.m3u",
+      "entries": 9,
+      "format": "m3u"
+    },
+    {
+      "id": "jogos_vorazes",
+      "name": "Jogos Vorazes",
+      "file": "playlists/jogos_vorazes.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "john_wick",
+      "name": "John Wick",
+      "file": "playlists/john_wick.m3u",
+      "entries": 7,
+      "format": "m3u"
+    },
+    {
+      "id": "kung_fu_panda",
+      "name": "Kung Fu Panda",
+      "file": "playlists/kung_fu_panda.m3u",
+      "entries": 6,
+      "format": "m3u"
+    },
+    {
+      "id": "lancamentos_2024",
+      "name": "Lancamentos 2024",
+      "file": "playlists/lancamentos_2024.m3u",
+      "entries": 234,
+      "format": "m3u"
+    },
+    {
+      "id": "lancamentos_2025",
+      "name": "Lancamentos 2025",
+      "file": "playlists/lancamentos_2025.m3u",
+      "entries": 346,
+      "format": "m3u"
+    },
+    {
+      "id": "lancamentos_2026",
+      "name": "Lancamentos 2026",
+      "file": "playlists/lancamentos_2026.m3u",
+      "entries": 319,
+      "format": "m3u"
+    },
+    {
+      "id": "legendados",
+      "name": "Legendados",
+      "file": "playlists/legendados.m3u",
+      "entries": 42870,
+      "format": "m3u"
+    },
+    {
+      "id": "lionsgate",
+      "name": "Lionsgate",
+      "file": "playlists/lionsgate.m3u",
+      "entries": 100,
+      "format": "m3u"
+    },
+    {
+      "id": "madagascar",
+      "name": "Madagascar",
+      "file": "playlists/madagascar.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "matrix",
+      "name": "Matrix",
+      "file": "playlists/matrix.m3u",
+      "entries": 4,
+      "format": "m3u"
+    },
+    {
+      "id": "max",
+      "name": "Max",
+      "file": "playlists/max.m3u",
+      "entries": 16707,
+      "format": "m3u"
+    },
+    {
+      "id": "meu_malvado_favorito",
+      "name": "Meu Malvado Favorito",
+      "file": "playlists/meu_malvado_favorito.m3u",
+      "entries": 4,
+      "format": "m3u"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "file": "playlists/minions.m3u",
+      "entries": 6,
+      "format": "m3u"
+    },
+    {
+      "id": "nacionais",
+      "name": "Nacionais",
+      "file": "playlists/nacionais.m3u",
+      "entries": 535,
+      "format": "m3u"
+    },
+    {
+      "id": "nba",
+      "name": "Nba",
+      "file": "playlists/nba.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "file": "playlists/netflix.m3u",
+      "entries": 32600,
+      "format": "m3u"
+    },
+    {
+      "id": "noticias",
+      "name": "Noticias",
+      "file": "playlists/noticias.m3u",
+      "entries": 18,
+      "format": "m3u"
+    },
+    {
+      "id": "novelas",
+      "name": "Novelas",
+      "file": "playlists/novelas.m3u",
+      "entries": 45471,
+      "format": "m3u"
+    },
+    {
+      "id": "novelas_turcas",
+      "name": "Novelas Turcas",
+      "file": "playlists/novelas_turcas.m3u",
+      "entries": 6790,
+      "format": "m3u"
+    },
+    {
+      "id": "o_hobbit",
+      "name": "O Hobbit",
+      "file": "playlists/o_hobbit.m3u",
+      "entries": 3,
+      "format": "m3u"
+    },
+    {
+      "id": "outras_produtoras",
+      "name": "Outras Produtoras",
+      "file": "playlists/outras_produtoras.m3u",
+      "entries": 26418,
+      "format": "m3u"
+    },
+    {
+      "id": "panico_na_floresta",
+      "name": "Panico Na Floresta",
+      "file": "playlists/panico_na_floresta.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount",
+      "file": "playlists/paramount.m3u",
+      "entries": 9339,
+      "format": "m3u"
+    },
+    {
+      "id": "paramount_2",
+      "name": "Paramount 2",
+      "file": "playlists/paramount_2.m3u",
+      "entries": 4,
+      "format": "m3u"
+    },
+    {
+      "id": "piratas_do_caribe",
+      "name": "Piratas Do Caribe",
+      "file": "playlists/piratas_do_caribe.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "pluto_tv",
+      "name": "Pluto Tv",
+      "file": "playlists/pluto_tv.m3u",
+      "entries": 168,
+      "format": "m3u"
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "file": "playlists/portugal.m3u",
+      "entries": 21,
+      "format": "m3u"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere",
+      "file": "playlists/premiere.m3u",
+      "entries": 25,
+      "format": "m3u"
+    },
+    {
+      "id": "premonicao",
+      "name": "Premonicao",
+      "file": "playlists/premonicao.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "prime_video",
+      "name": "Prime Video",
+      "file": "playlists/prime_video.m3u",
+      "entries": 22854,
+      "format": "m3u"
+    },
+    {
+      "id": "prime_video_2",
+      "name": "Prime Video 2",
+      "file": "playlists/prime_video_2.m3u",
+      "entries": 10,
+      "format": "m3u"
+    },
+    {
+      "id": "programas_de_tv",
+      "name": "Programas De Tv",
+      "file": "playlists/programas_de_tv.m3u",
+      "entries": 334,
+      "format": "m3u"
+    },
+    {
+      "id": "rambo",
+      "name": "Rambo",
+      "file": "playlists/rambo.m3u",
+      "entries": 10,
+      "format": "m3u"
+    },
+    {
+      "id": "reals_shorts",
+      "name": "Reals Shorts",
+      "file": "playlists/reals_shorts.m3u",
+      "entries": 36,
+      "format": "m3u"
+    },
+    {
+      "id": "record",
+      "name": "Record",
+      "file": "playlists/record.m3u",
+      "entries": 49,
+      "format": "m3u"
+    },
+    {
+      "id": "religiosos",
+      "name": "Religiosos",
+      "file": "playlists/religiosos.m3u",
+      "entries": 100,
+      "format": "m3u"
+    },
+    {
+      "id": "religiosos_2",
+      "name": "Religiosos 2",
+      "file": "playlists/religiosos_2.m3u",
+      "entries": 14,
+      "format": "m3u"
+    },
+    {
+      "id": "rocky",
+      "name": "Rocky",
+      "file": "playlists/rocky.m3u",
+      "entries": 6,
+      "format": "m3u"
+    },
+    {
+      "id": "romance",
+      "name": "Romance",
+      "file": "playlists/romance.m3u",
+      "entries": 662,
+      "format": "m3u"
+    },
+    {
+      "id": "sbt",
+      "name": "Sbt",
+      "file": "playlists/sbt.m3u",
+      "entries": 790,
+      "format": "m3u"
+    },
+    {
+      "id": "sbt_2",
+      "name": "Sbt 2",
+      "file": "playlists/sbt_2.m3u",
+      "entries": 52,
+      "format": "m3u"
+    },
+    {
+      "id": "shrek",
+      "name": "Shrek",
+      "file": "playlists/shrek.m3u",
+      "entries": 7,
+      "format": "m3u"
+    },
+    {
+      "id": "sport_net",
+      "name": "Sport Net",
+      "file": "playlists/sport_net.m3u",
+      "entries": 3,
+      "format": "m3u"
+    },
+    {
+      "id": "sportv",
+      "name": "Sportv",
+      "file": "playlists/sportv.m3u",
+      "entries": 10,
+      "format": "m3u"
+    },
+    {
+      "id": "star_plus",
+      "name": "Star Plus",
+      "file": "playlists/star_plus.m3u",
+      "entries": 4101,
+      "format": "m3u"
+    },
+    {
+      "id": "suspense",
+      "name": "Suspense",
+      "file": "playlists/suspense.m3u",
+      "entries": 718,
+      "format": "m3u"
+    },
+    {
+      "id": "telecine",
+      "name": "Telecine",
+      "file": "playlists/telecine.m3u",
+      "entries": 24,
+      "format": "m3u"
+    },
+    {
+      "id": "terror",
+      "name": "Terror",
+      "file": "playlists/terror.m3u",
+      "entries": 1503,
+      "format": "m3u"
+    },
+    {
+      "id": "top_filmes",
+      "name": "Top Filmes",
+      "file": "playlists/top_filmes.m3u",
+      "entries": 14,
+      "format": "m3u"
+    },
+    {
+      "id": "top_series",
+      "name": "Top Series",
+      "file": "playlists/top_series.m3u",
+      "entries": 418,
+      "format": "m3u"
+    },
+    {
+      "id": "toy_story",
+      "name": "Toy Story",
+      "file": "playlists/toy_story.m3u",
+      "entries": 5,
+      "format": "m3u"
+    },
+    {
+      "id": "transformers",
+      "name": "Transformers",
+      "file": "playlists/transformers.m3u",
+      "entries": 8,
+      "format": "m3u"
+    },
+    {
+      "id": "ufc_figth_pass",
+      "name": "Ufc Figth Pass",
+      "file": "playlists/ufc_figth_pass.m3u",
+      "entries": 8,
+      "format": "m3u"
+    },
+    {
+      "id": "univer",
+      "name": "Univer",
+      "file": "playlists/univer.m3u",
+      "entries": 241,
+      "format": "m3u"
+    },
+    {
+      "id": "variedades",
+      "name": "Variedades",
+      "file": "playlists/variedades.m3u",
+      "entries": 35,
+      "format": "m3u"
+    },
+    {
+      "id": "velozes_e_furiosos",
+      "name": "Velozes E Furiosos",
+      "file": "playlists/velozes_e_furiosos.m3u",
+      "entries": 6,
+      "format": "m3u"
+    },
+    {
+      "id": "xxx_adultos",
+      "name": "Xxx Adultos",
+      "file": "playlists/xxx_adultos.m3u",
+      "entries": 9079,
+      "format": "m3u"
+    }
+  ]
+}
